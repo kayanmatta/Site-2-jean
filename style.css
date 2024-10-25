@@ -8,6 +8,7 @@ margin: 100px 0 0 100px;
 }
 .textos{
     padding-top: 4%;
+    
 }
 .contato{
     padding-right: 80%;
@@ -29,4 +30,15 @@ margin: 100px 0 0 100px;
     --bs-accordion-bg:rgb(199, 199, 199);
     --bs-accordion-border-width:2px;
     --bs-accordion-border-color: rgb(0, 0, 0);
+}
+.nav{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.sobre{
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.textohome{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+    
 }
