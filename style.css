@@ -18,3 +18,15 @@ margin: 100px 0 0 100px;
     padding-top: 5px;
     padding-left: 5%;
 }
+.imgs{
+    text-align: center;
+}
+.footer{
+    text-align: center;
+    padding-top: 10%;
+}
+.accordion{
+    --bs-accordion-bg:rgb(199, 199, 199);
+    --bs-accordion-border-width:2px;
+    --bs-accordion-border-color: rgb(0, 0, 0);
+}
