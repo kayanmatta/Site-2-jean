@@ -24,7 +24,8 @@ margin: 100px 0 0 100px;
 }
 .footer{
     text-align: center;
-    padding-top: 10%;
+    padding-top: 5%;
+    margin-left: 75%;
 }
 .accordion{
     --bs-accordion-bg:rgb(199, 199, 199);
@@ -40,5 +41,6 @@ margin: 100px 0 0 100px;
 .textohome{
     font-family: "Times New Roman", Times, serif;
     font-size: 17px;
+    text-align: center;
     
 }
